@@ -1,2 +1,0 @@
-This is an updated version of auth.txt
-New line for auth.txt
